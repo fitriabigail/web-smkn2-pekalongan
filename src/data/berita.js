@@ -4,9 +4,9 @@ export const daftarBerita = [
     judul: "Pendaftaran Peserta Didik Baru Tahun Ajaran 2026/2027 Dibuka",
     tanggal: "10 Oktober 2026",
     ringkasan:
-      "SMK Negeri 2 Pekalongan membuka pendaftaran peserta didik baru untuk empat program keahlian.",
+      "SMK Negeri 2 Pekalongan membuka pendaftaran peserta didik baru untuk enam program keahlian.",
     isi: [
-      "SMK Negeri 2 Pekalongan resmi membuka pendaftaran peserta didik baru untuk tahun ajaran 2026/2027. Calon siswa dapat memilih program keahlian Akuntansi, Administrasi Perkantoran, Pemasaran, dan Teknik Komputer dan Jaringan.",
+      "SMK Negeri 2 Pekalongan resmi membuka pendaftaran peserta didik baru untuk tahun ajaran 2026/2027. Calon siswa dapat memilih program keahlian Akuntansi, Administrasi Perkantoran, Pemasaran, dan Teknik Jaringan Komputer dan Telekomunikasi.",
       "Panitia menyiapkan loket pendaftaran di lobi sekolah serta layanan informasi bagi orang tua yang ingin bertanya tentang jalur, persyaratan, dan jadwal seleksi.",
       "Calon siswa disarankan menyiapkan berkas lebih awal agar proses verifikasi berjalan lancar. Informasi lengkap dapat ditanyakan langsung ke sekolah.",
     ],
@@ -37,7 +37,7 @@ label: "Foto PPDB",
     ringkasan:
       "Siswa TJKT belajar membangun dan mengonfigurasi jaringan langsung bersama praktisi industri.",
     isi: [
-      "Jurusan Teknik Komputer dan Jaringan mengadakan workshop konfigurasi jaringan yang diisi oleh praktisi dari dunia industri.",
+      "Jurusan Teknik Jaringan Komputer dan Telekomunikasi mengadakan workshop konfigurasi jaringan yang diisi oleh praktisi dari dunia industri.",
       "Siswa mempraktikkan pemasangan kabel, pengaturan alamat IP, dan pengujian koneksi pada perangkat yang tersedia di laboratorium komputer.",
       "Kegiatan ini membantu siswa memahami kebutuhan dunia kerja sebelum mereka mengikuti praktik kerja lapangan.",
     ],
