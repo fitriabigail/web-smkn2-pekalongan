@@ -32,10 +32,10 @@ label: "Foto PPDB",
   },
   {
     id: "workshop-jaringan-komputer",
-    judul: "Workshop Jaringan Komputer untuk Siswa TKJ",
+    judul: "Workshop Jaringan Komputer untuk Siswa TJKT",
     tanggal: "25 September 2026",
     ringkasan:
-      "Siswa TKJ belajar membangun dan mengonfigurasi jaringan langsung bersama praktisi industri.",
+      "Siswa TJKT belajar membangun dan mengonfigurasi jaringan langsung bersama praktisi industri.",
     isi: [
       "Jurusan Teknik Komputer dan Jaringan mengadakan workshop konfigurasi jaringan yang diisi oleh praktisi dari dunia industri.",
       "Siswa mempraktikkan pemasangan kabel, pengaturan alamat IP, dan pengujian koneksi pada perangkat yang tersedia di laboratorium komputer.",
