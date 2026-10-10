@@ -18,7 +18,7 @@ const sejarah = [
   },
   {
     tahun: "Kini",
-    teks: "Nama berubah menjadi SMK Negeri 2 Pekalongan dengan enam program keahlian: Akuntansi, Administrasi Perkantoran, Pemasaran, Teknik Komputer dan Jaringan, Pengembangan Perangkat Lunak dan Gim, serta Broadcasting dan Perfilman.",
+    teks: "Nama berubah menjadi SMK Negeri 2 Pekalongan dengan enam program keahlian: Akuntansi, Manajemen Perkantoran dan Layanan Bisnis, Pemasaran, Teknik Jaringan Komputer dan Telekomunikasi, Pengembangan Perangkat Lunak dan Gim, serta Produksi dan Siaran Program Televisi.",
   },
 ];
 

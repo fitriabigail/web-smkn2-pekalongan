@@ -6,7 +6,7 @@ export const daftarBerita = [
     ringkasan:
       "SMK Negeri 2 Pekalongan membuka pendaftaran peserta didik baru untuk enam program keahlian.",
     isi: [
-      "SMK Negeri 2 Pekalongan resmi membuka pendaftaran peserta didik baru untuk tahun ajaran 2026/2027. Calon siswa dapat memilih program keahlian Akuntansi, Administrasi Perkantoran, Pemasaran, dan Teknik Jaringan Komputer dan Telekomunikasi.",
+      "SMK Negeri 2 Pekalongan resmi membuka pendaftaran peserta didik baru untuk tahun ajaran 2026/2027. Calon siswa dapat memilih program keahlian Akuntansi, Manajemen Perkantoran dan Layanan Bisnis, Pemasaran, Teknik Jaringan Komputer dan Telekomunikasi, Pengembangan Perangkat Lunak dan Gim, serta Produksi dan Siaran Program Televisi.",
       "Panitia menyiapkan loket pendaftaran di lobi sekolah serta layanan informasi bagi orang tua yang ingin bertanya tentang jalur, persyaratan, dan jadwal seleksi.",
       "Calon siswa disarankan menyiapkan berkas lebih awal agar proses verifikasi berjalan lancar. Informasi lengkap dapat ditanyakan langsung ke sekolah.",
     ],
