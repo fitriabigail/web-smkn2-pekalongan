@@ -1,6 +1,5 @@
 import Link from "next/link";
-import BeritaCard from "@/components/BeritaCard";
-import { daftarBerita } from "@/data/berita";
+import DaftarBerita from "@/components/DaftarBerita";
 
 export const metadata = { title: "Berita | SMK Negeri 2 Pekalongan" };
 
@@ -23,9 +22,7 @@ export default function Berita() {
 
       <section className="bg-mist">
         <div className="mx-auto grid max-w-6xl gap-6 px-4 py-16 sm:grid-cols-2 lg:grid-cols-3">
-          {daftarBerita.map((b) => (
-            <BeritaCard key={b.id} berita={b} />
-          ))}
+          <DaftarBerita />
         </div>
       </section>
     </>

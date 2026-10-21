@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { notFound } from "next/navigation";
+import DetailLokal from "@/components/DetailLokal";
 import Gambar from "@/components/Gambar";
 import { daftarBerita } from "@/data/berita";
 
@@ -12,8 +12,8 @@ export default async function DetailBerita({ params }) {
   const berita = daftarBerita.find((b) => b.id === id);
 
   if (!berita) {
-    notFound();
-  }
+  return <DetailLokal id={id} />;
+}
 
   return (
     <article>
